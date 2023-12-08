@@ -1,0 +1,71 @@
+{
+    "questions": [
+        {
+            "question": "Which city is the capital of Russia?",
+            "alternatives": [
+                {
+                    "color": "Green",
+                    "answer": "London"
+                },
+                {
+                    "color": "Yellow",
+                    "answer": "Oslo"
+                },
+                {
+                    "color": "Blue",
+                    "answer": "New York"
+                },
+                {
+                    "color": "Red",
+                    "answer": "Moscow"
+                }
+            ],
+            "correctAnswer": "Red"
+        },
+        {
+            "question": "What is the largest planet in our solar system?",
+            "alternatives": [
+                {
+                    "color": "Green",
+                    "answer": "Mars"
+                },
+                {
+                    "color": "Yellow",
+                    "answer": "Saturn"
+                },
+                {
+                    "color": "Blue",
+                    "answer": "Jupiter"
+                },
+                {
+                    "color": "Red",
+                    "answer": "Venus"
+                }
+            ],
+            "correctAnswer": "Blue"
+        },
+        {
+            "question": "Who painted the Mona Lisa?",
+            "alternatives": [
+                {
+                    "color": "Green",
+                    "answer": "Pablo Picasso"
+                },
+                {
+                    "color": "Yellow",
+                    "answer": "Leonardo da Vinci"
+                },
+                {
+                    "color": "Blue",
+                    "answer": "Vincent van Gogh"
+                },
+                {
+                    "color": "Red",
+                    "answer": "Michelangelo"
+                }
+            ],
+            "correctAnswer": "Yellow"
+        }
+    ]
+}
+
