@@ -29,16 +29,35 @@ body {
     padding: 0;
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
+}
+
+header {
+    background-color: var(--foreground-white);
+    color: var(--background);
+    display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.VelkommenText {
-    text-align: center;
-    margin: 30px;
+
+form {
+    background-color: var(--foreground-white);
+    color: var(--background);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: var(--FormWidth);
+    align-self: center;
+
 }
 
-.Container {
-  background-color: var(--foreground-white);
-  border-radius: 15px;
+
+footer {
+    background-color: var(--foreground-white);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
